@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/ChaseLogic/ChaseLogic.iml" filepath="$PROJECT_DIR$/src/ChaseLogic/ChaseLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Game.iml" filepath="$PROJECT_DIR$/.idea/Java_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Game/game.iml" filepath="$PROJECT_DIR$/src/Game/game.iml" />
+    </modules>
+  </component>
+</project>
